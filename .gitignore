@@ -1,0 +1,5 @@
+.*
+!.gitignore
+venv
+DialoGPT-small-HanSolo/*
+!DialoGPT-small-HanSolo/readme.txt
