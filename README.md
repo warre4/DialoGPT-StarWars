@@ -23,7 +23,7 @@ pip3 install transformers
 ```
 The command for __PyTorch__ can be found on their [site](https://pytorch.org).
 
-You should also have something that can run the application, I personally use [PyCharm](https://www.jetbrains.com/pycharm/).
+If you want you can install something that can run the application as well, but this is not nessecary since you can just run it via the terminal.
 
 ## How to use
 Put your model and tokenizer inside of the [DialoGPT-small-HanSolo](DialoGPT-small-HanSolo) folder (if you adjust the name of the folder, adjust all instances of the folder name in [ChatbotNPC.py](ChatbotNPC.py) as well), there is a link to the model I trained on the Star Wars data inside of the [readme.txt](DialoGPT-small-HanSolo/readme.txt).
